@@ -3,4 +3,4 @@
 This repository contains few basic python programs I worte while learn Python,
 
 ## Topics 
--> Print 
+-> Print and Input statements 
